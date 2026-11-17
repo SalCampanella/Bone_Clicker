@@ -1,5 +1,5 @@
 # Bone Clicker
-
+![Screenshot](Sprites/screenshot.png)
 A cookie-clicker-style game where you dig up bones by clicking a T-Rex. Built with HTML, CSS, and JavaScript using the canvas.
 
 ## How to Play
