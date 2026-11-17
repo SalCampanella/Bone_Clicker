@@ -15,4 +15,6 @@ A cookie-clicker-style game where you dig up bones by clicking a T-Rex. Built wi
 - Floating "+N" text and click animation on the T-Rex
 ## Run It
 
-No install needed. Download or clone the project and open index.html in your browser.
+No install needed. Download or clone the project and open index.html in your browser, or play it below.
+
+**[Play it here](https://salcampanella.github.io/Bone_Clicker/)**
